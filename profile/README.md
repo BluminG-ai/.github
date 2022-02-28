@@ -1,5 +1,7 @@
 ## BluminG.ai - The Best Mobile App Templates 🚀 
 
+![alt text](app-logo.png "BluminG.ai")
+
 <!--
 
 **Here are some ideas to get you started:**
