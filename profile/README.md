@@ -1,6 +1,6 @@
 ## BluminG.ai - The Best Mobile App Templates 🚀 
 
-![alt text](https://github.com/BluminG-ai/.github/blob/main/profile/banner.png "BluminG.ai")
+![alt text](https://github.com/BluminG-ai/.github/blob/main/profile/banner-logo.png "BluminG.ai")
 
 <!--
 
