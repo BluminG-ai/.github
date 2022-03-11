@@ -2,6 +2,16 @@
 
 ![alt text](https://github.com/BluminG-ai/.github/blob/main/profile/banner-logo.png "BluminG.ai")
 
+## Get Involved
+
+Right now, open communities are building amazing web and mobile apps software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+
+Visit [bluming.ai](https://www.bluming.ai/) to learn more!
+
+----
+
+BluminG projects adopt the [BluminG Open Source Code of Conduct](https://bluming.ai/codeofconduct/).
+
 <!--
 
 **Here are some ideas to get you started:**
