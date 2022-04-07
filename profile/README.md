@@ -8,8 +8,6 @@ Right now, open communities are building amazing web and mobile apps software to
 
 Visit [bluming.ai](https://www.bluming.ai/) to learn more!
 
-![alt text](https://raw.githubusercontent.com/BluminG-ai/.github/main/profile/app6.png "Blog App")
-
 ----
 
 BluminG projects adopt the [BluminG Open Source Code of Conduct](https://bluming.ai/codeofconduct/).
