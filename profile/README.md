@@ -1,4 +1,4 @@
-## BluminG.ai - The Best Mobile App Templates 🚀 
+## 🚀 BluminG - Open Source
 
 ![alt text](https://github.com/BluminG-ai/.github/blob/main/profile/banner-logo.png "BluminG.ai")
 
@@ -8,11 +8,13 @@ Right now, open communities are building amazing web and mobile apps software to
 
 Visit [bluming.ai](https://www.bluming.ai/) to learn more!
 
-----
+---
 
-BluminG projects adopt the [BluminG Open Source Code of Conduct](https://bluming.ai/codeofconduct/).
+At BluminG, like most tech companies, we depend on open source software worldwide to help us get things done. We want to have a great open source community with a wide range of APIs, Android, iOS and the most enjoyable way of BluminG apps.
 
 <!--
+
+BluminG projects adopt the [BluminG Open Source Code of Conduct](https://bluming.ai/codeofconduct/).
 
 **Here are some ideas to get you started:**
 
